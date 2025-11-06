@@ -1,0 +1,16 @@
+2025-11-06 22:36:55.891 [info] Extension host with pid 17689 started
+2025-11-06 22:36:55.891 [info] Skipping acquiring lock for /vargant/hw-02/smon-homeworks/~/.vscode-root/User/workspaceStorage/493d1abf712ee47e1d28ebfbc72dbdf9.
+2025-11-06 22:36:56.073 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-06 22:36:56.317 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-06 22:36:56.983 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-11-06 22:36:57.106 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-06 22:36:57.577 [info] Eager extensions activated
+2025-11-06 22:36:57.584 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-06 22:36:57.592 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-06 22:37:04.209 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-11-06 22:37:07.134 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-11-06 22:37:07.207 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-11-06 22:37:10.265 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-11-06 23:12:36.771 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-06 23:12:36.809 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-06 23:12:37.020 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

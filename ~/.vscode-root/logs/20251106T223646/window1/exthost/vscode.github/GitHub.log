@@ -1,0 +1,3 @@
+2025-11-06 22:36:57.744 [info] Log level: Info
+2025-11-06 22:37:05.192 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-11-06 22:38:21.051 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for roomantix/hw-02: Error: No GitHub authentication session available.

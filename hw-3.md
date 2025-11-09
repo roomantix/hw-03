@@ -75,7 +75,7 @@
 
 Скриншот 2: Решение задания 2,3
 
-![Скриншот 2](https://github.com/roomantix/hw-03/blob/main/images/2.png)
+![Скриншот 2](https://github.com/roomantix/hw-03/blob/main/images/22.png)
 
 Скриншот 3: Решение задания 2,3
 

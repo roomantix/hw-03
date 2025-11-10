@@ -100,7 +100,7 @@
 
 Скриншот 4: Решение задания 4
 
-![Скриншот 4](https://github.com/roomantix/hw-03/blob/main/images/3.png)
+![Скриншот 4](https://github.com/roomantix/hw-03/blob/main/images/4.png)
 
 
 ## Критерии оценки
